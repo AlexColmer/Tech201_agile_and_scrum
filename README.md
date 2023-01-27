@@ -7,6 +7,10 @@ or feature driven development.
 
 ![](Agile.jpeg)
 
+### How does agile fit into DevOps
+
+DevOps is a culture, maintaining collaboration amongst all participants involved in the development and maintenance of software. Agile can be described as a development methodology designed to maintain productivity and drive releases with the common reality of changing needs.
+
 ### 4 Agile Values 
 
 - individuals and intercalation over processes and tools 
@@ -29,7 +33,9 @@ or feature driven development.
 11.	The best architectures, requirements, and designs emerge from self-organizing teams.
 12.	At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
+### what is the difference between agile and traditional models 
 
+- traditional models use the waterfall method where they start planning then creating and once everything is created then they review it to be released. this is highly inefficient, as there could be many issues in the build however they cant find out if there are problems till it has all be reviewed. Agile makes this process much quicker and efficient as all everyone on the team is working at the same time so you can check whether it is working in the same day instead of having to wait weeks between releases. 
 
 ### Scrum 
 
