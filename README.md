@@ -37,8 +37,19 @@ scrum is a tool used by software developers and scrum masters to track the progr
 
 ![](scrum_framework.png)
 
+### The benefits of scrum 
+
+![](scrum%20benefits.jpg)
+
 ### Scrum teams 
 
 within scrum there is specific team this consists of the Product owner who knows what the customer wants and the relative buisness values of those wants. They can translate these needs back to the scrum team, scrum master helps to keep the team accountable to their commitments to the business and remove any roadblocks that might halt productivity and developers are structured and empowered by the organisation and manage their own work. The resulting synergy optimizes the development team's overall efficiency.
 
 ![](ScrumTeam.png)
+
+### The three pillars of scrum 
+
+- First pillar- transparency, in this the whole team has to be transparent with what they are working on and how they are doing so that the whole team is on the same page and not working at different speeds.
+- Second pillar- inspection, this is where the team can inspect what each other are doing and help out where it might be needed and give feedback on the weeks tasks.
+- Third pillar- adaptation, in the world of DevOps your task will consistency be changing to meet the needs of the client s oyou have to be able to adapt to the ever-changing environment 
+
